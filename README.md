@@ -13,8 +13,7 @@ A state-of-the-art image classification pipeline built on **ResNet50V** with Ten
 - [📂 Dataset](#-dataset)  
 - [🧠 Model Details](#-model-details)  
 - [🔧 Fine-tuning](#-fine-tuning)  
-- [🔍 Testing](#-testing)  
-- [📈 Results](#-results)  
+- [🔍 Testing](#-testing)   
 - [🔗 References](#-references)  
 
 ---
@@ -108,10 +107,7 @@ Use the `Resnet50V2_test.ipynb` notebook for detailed evaluation and performance
 
 ---
 
-## 📈 **Results**  
-✨ **Model Performance**:  
-- **Accuracy**: _[Add metrics]_  
-- **Precision/Recall**: _[Add metrics]_  
+   
 
 Visualize training and validation metrics for a comprehensive understanding.  
 
